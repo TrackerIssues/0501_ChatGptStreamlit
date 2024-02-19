@@ -39,7 +39,8 @@ def PrintStreamResponse( response ) :
     oPlaceHolder.markdown(sMessage)
     return sMessage
 
-##################################################
+
+
 
 st.set_page_config(
     page_title= "ChatGpt Api",
